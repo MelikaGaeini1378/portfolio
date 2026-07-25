@@ -217,6 +217,8 @@ body{
 
     object-position:center top;
 
+    transform:translateY(10px);
+
     border-radius:35%;
 
     border:7px solid white;
